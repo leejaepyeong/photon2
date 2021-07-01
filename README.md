@@ -34,7 +34,6 @@ S.master() :  방장이 만든 맵
 ![image](https://user-images.githubusercontent.com/80494367/123921833-65383f80-d9c2-11eb-97dc-ee8162d628b1.png)
 
 
-
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/80494367/124078798-46e64880-da83-11eb-8907-c6e859653b05.png)
 
 
